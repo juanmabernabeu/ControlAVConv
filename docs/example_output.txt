@@ -1,0 +1,1616 @@
+/home/juanma/Videos/DSVideo/Cartoons/Super Hero Squad/Super.Hero.Squad.Show.s01e22.The Ice Melt Cometh (01-23-10).TVCap.640x480.xvid-acrwt/Thumbs.db
+/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series
+/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_1
+/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_1/t01_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_1.mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Input #0, matroska,webm, from '/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_1/t01_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_1.mkv':
+  Duration: 00:21:05.50, start: 0.000000, bitrate: N/A
+    Chapter #0.0: start 0.000000, end 1265.506000
+    Metadata:
+      title           : Chapter 01
+    Stream #0.0(eng): Video: mpeg2video (Main), yuv420p, 720x480 [PAR 8:9 DAR 4:3], 7500 kb/s, 29.97 fps, 1k tbn, 59.94 tbc (default)
+    Stream #0.1(eng): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s (default)
+    Metadata:
+      title           : 2/0
+    Stream #0.2(fre): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      title           : 2/0
+    Stream #0.3(spa): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      title           : 2/0
+    Stream #0.4(eng): Subtitle: dvdsub (default)
+    Stream #0.5(fre): Subtitle: dvdsub
+    Stream #0.6(spa): Subtitle: dvdsub
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_1/t02_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_1.mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Input #0, matroska,webm, from '/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_1/t02_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_1.mkv':
+  Duration: 00:21:08.77, start: 0.000000, bitrate: N/A
+    Chapter #0.0: start 0.000000, end 1268.776000
+    Metadata:
+      title           : Chapter 01
+    Stream #0.0(eng): Video: mpeg2video (Main), yuv420p, 720x480 [PAR 8:9 DAR 4:3], 7500 kb/s, 29.97 fps, 1k tbn, 59.94 tbc (default)
+    Stream #0.1(eng): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s (default)
+    Metadata:
+      title           : 2/0
+    Stream #0.2(fre): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      title           : 2/0
+    Stream #0.3(spa): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      title           : 2/0
+    Stream #0.4(eng): Subtitle: dvdsub (default)
+    Stream #0.5(fre): Subtitle: dvdsub
+    Stream #0.6(spa): Subtitle: dvdsub
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_1/t03_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_1.mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Input #0, matroska,webm, from '/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_1/t03_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_1.mkv':
+  Duration: 00:22:30.02, start: 0.000000, bitrate: N/A
+    Chapter #0.0: start 0.000000, end 1350.024000
+    Metadata:
+      title           : Chapter 01
+    Stream #0.0(eng): Video: mpeg2video (Main), yuv420p, 720x480 [PAR 8:9 DAR 4:3], 7500 kb/s, 29.97 fps, 1k tbn, 59.94 tbc (default)
+    Stream #0.1(eng): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s (default)
+    Metadata:
+      title           : 2/0
+    Stream #0.2(fre): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      title           : 2/0
+    Stream #0.3(spa): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      title           : 2/0
+    Stream #0.4(eng): Subtitle: dvdsub (default)
+    Stream #0.5(fre): Subtitle: dvdsub
+    Stream #0.6(spa): Subtitle: dvdsub
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_1/t04_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_1.mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Input #0, matroska,webm, from '/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_1/t04_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_1.mkv':
+  Duration: 00:21:16.18, start: 0.000000, bitrate: N/A
+    Chapter #0.0: start 0.000000, end 1276.183000
+    Metadata:
+      title           : Chapter 01
+    Stream #0.0(eng): Video: mpeg2video (Main), yuv420p, 720x480 [PAR 8:9 DAR 4:3], 7500 kb/s, 29.97 fps, 1k tbn, 59.94 tbc (default)
+    Stream #0.1(eng): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s (default)
+    Metadata:
+      title           : 2/0
+    Stream #0.2(fre): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      title           : 2/0
+    Stream #0.3(spa): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      title           : 2/0
+    Stream #0.4(eng): Subtitle: dvdsub (default)
+    Stream #0.5(fre): Subtitle: dvdsub
+    Stream #0.6(spa): Subtitle: dvdsub
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_1/t05_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_1.mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Input #0, matroska,webm, from '/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_1/t05_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_1.mkv':
+  Duration: 00:21:31.29, start: 0.000000, bitrate: N/A
+    Chapter #0.0: start 0.000000, end 1291.299000
+    Metadata:
+      title           : Chapter 01
+    Stream #0.0(eng): Video: mpeg2video (Main), yuv420p, 720x480 [PAR 8:9 DAR 4:3], 7500 kb/s, 29.97 fps, 1k tbn, 59.94 tbc (default)
+    Stream #0.1(eng): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s (default)
+    Metadata:
+      title           : 2/0
+    Stream #0.2(fre): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      title           : 2/0
+    Stream #0.3(spa): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      title           : 2/0
+    Stream #0.4(eng): Subtitle: dvdsub (default)
+    Stream #0.5(fre): Subtitle: dvdsub
+    Stream #0.6(spa): Subtitle: dvdsub
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_1/t06_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_1.mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Input #0, matroska,webm, from '/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_1/t06_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_1.mkv':
+  Duration: 00:21:17.51, start: 0.000000, bitrate: N/A
+    Chapter #0.0: start 0.000000, end 1277.518000
+    Metadata:
+      title           : Chapter 01
+    Stream #0.0(eng): Video: mpeg2video (Main), yuv420p, 720x480 [PAR 8:9 DAR 4:3], 7500 kb/s, 29.97 fps, 1k tbn, 59.94 tbc (default)
+    Stream #0.1(eng): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s (default)
+    Metadata:
+      title           : 2/0
+    Stream #0.2(fre): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      title           : 2/0
+    Stream #0.3(spa): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      title           : 2/0
+    Stream #0.4(eng): Subtitle: dvdsub (default)
+    Stream #0.5(fre): Subtitle: dvdsub
+    Stream #0.6(spa): Subtitle: dvdsub
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_1/t07_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_1.mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Input #0, matroska,webm, from '/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_1/t07_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_1.mkv':
+  Duration: 00:21:30.78, start: 0.000000, bitrate: N/A
+    Chapter #0.0: start 0.000000, end 1290.789000
+    Metadata:
+      title           : Chapter 01
+    Stream #0.0(eng): Video: mpeg2video (Main), yuv420p, 720x480 [PAR 8:9 DAR 4:3], 7500 kb/s, 29.97 fps, 1k tbn, 59.94 tbc (default)
+    Stream #0.1(eng): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s (default)
+    Metadata:
+      title           : 2/0
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A
+/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A/t01_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A.mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Input #0, matroska,webm, from '/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A/t01_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A.mkv':
+  Duration: 00:21:20.82, start: 0.000000, bitrate: N/A
+    Chapter #0.0: start 0.000000, end 1280.821000
+    Metadata:
+      title           : Chapter 01
+    Stream #0.0(eng): Video: mpeg2video (Main), yuv420p, 720x480 [PAR 8:9 DAR 4:3], 7500 kb/s, 29.97 fps, 1k tbn, 59.94 tbc (default)
+    Stream #0.1(eng): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s (default)
+    Metadata:
+      title           : 2/0
+    Stream #0.2(fre): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      title           : 2/0
+    Stream #0.3(spa): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      title           : 2/0
+    Stream #0.4(eng): Subtitle: dvdsub (default)
+    Stream #0.5(fre): Subtitle: dvdsub
+    Stream #0.6(spa): Subtitle: dvdsub
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A/t02_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A.mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Input #0, matroska,webm, from '/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A/t02_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A.mkv':
+  Duration: 00:20:34.24, start: 0.000000, bitrate: N/A
+    Chapter #0.0: start 0.000000, end 1234.242000
+    Metadata:
+      title           : Chapter 01
+    Stream #0.0(eng): Video: mpeg2video (Main), yuv420p, 720x480 [PAR 8:9 DAR 4:3], 7500 kb/s, 29.97 fps, 1k tbn, 59.94 tbc (default)
+    Stream #0.1(eng): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s (default)
+    Metadata:
+      title           : 2/0
+    Stream #0.2(fre): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      title           : 2/0
+    Stream #0.3(spa): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      title           : 2/0
+    Stream #0.4(eng): Subtitle: dvdsub (default)
+    Stream #0.5(fre): Subtitle: dvdsub
+    Stream #0.6(spa): Subtitle: dvdsub
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A/t03_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A.mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Input #0, matroska,webm, from '/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A/t03_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A.mkv':
+  Duration: 00:20:14.22, start: 0.000000, bitrate: N/A
+    Chapter #0.0: start 0.000000, end 1214.222000
+    Metadata:
+      title           : Chapter 01
+    Stream #0.0(eng): Video: mpeg2video (Main), yuv420p, 720x480 [PAR 8:9 DAR 4:3], 7500 kb/s, 29.97 fps, 1k tbn, 59.94 tbc (default)
+    Stream #0.1(eng): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s (default)
+    Metadata:
+      title           : 2/0
+    Stream #0.2(fre): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      title           : 2/0
+    Stream #0.3(spa): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      title           : 2/0
+    Stream #0.4(eng): Subtitle: dvdsub (default)
+    Stream #0.5(fre): Subtitle: dvdsub
+    Stream #0.6(spa): Subtitle: dvdsub
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A/t04_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A.mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Input #0, matroska,webm, from '/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A/t04_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A.mkv':
+  Duration: 00:21:17.28, start: 0.000000, bitrate: N/A
+    Chapter #0.0: start 0.000000, end 1277.285000
+    Metadata:
+      title           : Chapter 01
+    Stream #0.0(eng): Video: mpeg2video (Main), yuv420p, 720x480 [PAR 8:9 DAR 4:3], 7500 kb/s, 29.97 fps, 1k tbn, 59.94 tbc (default)
+    Stream #0.1(eng): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s (default)
+    Metadata:
+      title           : 2/0
+    Stream #0.2(fre): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      title           : 2/0
+    Stream #0.3(spa): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      title           : 2/0
+    Stream #0.4(eng): Subtitle: dvdsub (default)
+    Stream #0.5(fre): Subtitle: dvdsub
+    Stream #0.6(spa): Subtitle: dvdsub
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A/t05_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A.mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Input #0, matroska,webm, from '/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A/t05_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A.mkv':
+  Duration: 00:21:19.28, start: 0.000000, bitrate: N/A
+    Chapter #0.0: start 0.000000, end 1279.287000
+    Metadata:
+      title           : Chapter 01
+    Stream #0.0(eng): Video: mpeg2video (Main), yuv420p, 720x480 [PAR 8:9 DAR 4:3], 7500 kb/s, 29.97 fps, 1k tbn, 59.94 tbc (default)
+    Stream #0.1(eng): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s (default)
+    Metadata:
+      title           : 2/0
+    Stream #0.2(fre): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      title           : 2/0
+    Stream #0.3(spa): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      title           : 2/0
+    Stream #0.4(eng): Subtitle: dvdsub (default)
+    Stream #0.5(fre): Subtitle: dvdsub
+    Stream #0.6(spa): Subtitle: dvdsub
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A/t06_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A.mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Input #0, matroska,webm, from '/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A/t06_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A.mkv':
+  Duration: 00:21:02.10, start: 0.000000, bitrate: N/A
+    Chapter #0.0: start 0.000000, end 1262.103000
+    Metadata:
+      title           : Chapter 01
+    Stream #0.0(eng): Video: mpeg2video (Main), yuv420p, 720x480 [PAR 8:9 DAR 4:3], 7500 kb/s, 29.97 fps, 1k tbn, 59.94 tbc (default)
+    Stream #0.1(eng): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s (default)
+    Metadata:
+      title           : 2/0
+    Stream #0.2(fre): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      title           : 2/0
+    Stream #0.3(spa): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      title           : 2/0
+    Stream #0.4(eng): Subtitle: dvdsub (default)
+    Stream #0.5(fre): Subtitle: dvdsub
+    Stream #0.6(spa): Subtitle: dvdsub
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A/t07_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A.mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Input #0, matroska,webm, from '/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A/t07_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A.mkv':
+  Duration: 00:21:13.51, start: 0.000000, bitrate: N/A
+    Chapter #0.0: start 0.000000, end 1273.514000
+    Metadata:
+      title           : Chapter 01
+    Stream #0.0(eng): Video: mpeg2video (Main), yuv420p, 720x480 [PAR 8:9 DAR 4:3], 7500 kb/s, 29.97 fps, 1k tbn, 59.94 tbc (default)
+    Stream #0.1(eng): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s (default)
+    Metadata:
+      title           : 2/0
+    Stream #0.2(fre): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      title           : 2/0
+    Stream #0.3(spa): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      title           : 2/0
+    Stream #0.4(eng): Subtitle: dvdsub (default)
+    Stream #0.5(fre): Subtitle: dvdsub
+    Stream #0.6(spa): Subtitle: dvdsub
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A/t08_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A.mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Input #0, matroska,webm, from '/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A/t08_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A.mkv':
+  Duration: 00:21:16.15, start: 0.000000, bitrate: N/A
+    Chapter #0.0: start 0.000000, end 1276.150000
+    Metadata:
+      title           : Chapter 01
+    Stream #0.0(eng): Video: mpeg2video (Main), yuv420p, 720x480 [PAR 8:9 DAR 4:3], 7500 kb/s, 29.97 fps, 1k tbn, 59.94 tbc (default)
+    Stream #0.1(eng): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s (default)
+    Metadata:
+      title           : 2/0
+    Stream #0.2(fre): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      title           : 2/0
+    Stream #0.3(spa): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      title           : 2/0
+    Stream #0.4(eng): Subtitle: dvdsub (default)
+    Stream #0.5(fre): Subtitle: dvdsub
+    Stream #0.6(spa): Subtitle: dvdsub
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A/t09_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A.mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Input #0, matroska,webm, from '/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A/t09_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2A.mkv':
+  Duration: 00:09:41.11, start: 0.000000, bitrate: N/A
+    Chapter #0.0: start 0.000000, end 581.113000
+    Metadata:
+      title           : Chapter 01
+    Stream #0.0(eng): Video: mpeg2video (Main), yuv420p, 720x480 [PAR 8:9 DAR 4:3], 7500 kb/s, 29.97 fps, 1k tbn, 59.94 tbc (default)
+    Stream #0.1(eng): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s (default)
+    Metadata:
+      title           : 2/0
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2B
+/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2B/t01_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2B.mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Input #0, matroska,webm, from '/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2B/t01_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2B.mkv':
+  Duration: 00:19:51.19, start: 0.000000, bitrate: N/A
+    Chapter #0.0: start 0.000000, end 1191.199000
+    Metadata:
+      title           : Chapter 01
+    Stream #0.0(eng): Video: mpeg2video (Main), yuv420p, 720x480 [PAR 8:9 DAR 4:3], 7500 kb/s, 29.97 fps, 1k tbn, 59.94 tbc (default)
+    Stream #0.1(eng): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s (default)
+    Metadata:
+      title           : 2/0
+    Stream #0.2(fre): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      title           : 2/0
+    Stream #0.3(spa): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      title           : 2/0
+    Stream #0.4(eng): Subtitle: dvdsub (default)
+    Stream #0.5(fre): Subtitle: dvdsub
+    Stream #0.6(spa): Subtitle: dvdsub
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2B/t02_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2B.mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Input #0, matroska,webm, from '/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2B/t02_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2B.mkv':
+  Duration: 00:21:26.32, start: 0.000000, bitrate: N/A
+    Chapter #0.0: start 0.000000, end 1286.327000
+    Metadata:
+      title           : Chapter 01
+    Stream #0.0(eng): Video: mpeg2video (Main), yuv420p, 720x480 [PAR 8:9 DAR 4:3], 7500 kb/s, 29.97 fps, 1k tbn, 59.94 tbc (default)
+    Stream #0.1(eng): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s (default)
+    Metadata:
+      title           : 2/0
+    Stream #0.2(fre): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      title           : 2/0
+    Stream #0.3(spa): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      title           : 2/0
+    Stream #0.4(eng): Subtitle: dvdsub (default)
+    Stream #0.5(fre): Subtitle: dvdsub
+    Stream #0.6(spa): Subtitle: dvdsub
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2B/t03_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2B.mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Input #0, matroska,webm, from '/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2B/t03_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2B.mkv':
+  Duration: 00:21:14.71, start: 0.000000, bitrate: N/A
+    Chapter #0.0: start 0.000000, end 1274.715000
+    Metadata:
+      title           : Chapter 01
+    Stream #0.0(eng): Video: mpeg2video (Main), yuv420p, 720x480 [PAR 8:9 DAR 4:3], 7500 kb/s, 29.97 fps, 1k tbn, 59.94 tbc (default)
+    Stream #0.1(eng): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s (default)
+    Metadata:
+      title           : 2/0
+    Stream #0.2(fre): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      title           : 2/0
+    Stream #0.3(spa): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      title           : 2/0
+    Stream #0.4(eng): Subtitle: dvdsub (default)
+    Stream #0.5(fre): Subtitle: dvdsub
+    Stream #0.6(spa): Subtitle: dvdsub
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2B/t04_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2B.mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Input #0, matroska,webm, from '/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2B/t04_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2B.mkv':
+  Duration: 00:21:16.28, start: 0.000000, bitrate: N/A
+    Chapter #0.0: start 0.000000, end 1276.284000
+    Metadata:
+      title           : Chapter 01
+    Stream #0.0(eng): Video: mpeg2video (Main), yuv420p, 720x480 [PAR 8:9 DAR 4:3], 7500 kb/s, 29.97 fps, 1k tbn, 59.94 tbc (default)
+    Stream #0.1(eng): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s (default)
+    Metadata:
+      title           : 2/0
+    Stream #0.2(fre): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      title           : 2/0
+    Stream #0.3(spa): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      title           : 2/0
+    Stream #0.4(eng): Subtitle: dvdsub (default)
+    Stream #0.5(fre): Subtitle: dvdsub
+    Stream #0.6(spa): Subtitle: dvdsub
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2B/t05_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2B.mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Input #0, matroska,webm, from '/home/juanma/Videos/DSVideo/Cartoons/Superman - The animated series/SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2B/t05_SUPERMAN_THE_ANIMATED_SERIES_VOL_1_DISC_2B.mkv':
+  Duration: 00:09:38.07, start: 0.000000, bitrate: N/A
+    Chapter #0.0: start 0.000000, end 578.077000
+    Metadata:
+      title           : Chapter 01
+    Stream #0.0(eng): Video: mpeg2video (Main), yuv420p, 720x480 [PAR 8:9 DAR 4:3], 7500 kb/s, 29.97 fps, 1k tbn, 59.94 tbc (default)
+    Stream #0.1(eng): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s (default)
+    Metadata:
+      title           : 2/0
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/The Avengers
+/home/juanma/Videos/DSVideo/Cartoons/The Avengers/The.Avengers.Earths.Mightiest.Heroes.S01E01.Breakout.Pt.1.720p.WEB.DL.DD5.1.AAC2.0.H264.19david87.mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Input #0, matroska,webm, from '/home/juanma/Videos/DSVideo/Cartoons/The Avengers/The.Avengers.Earths.Mightiest.Heroes.S01E01.Breakout.Pt.1.720p.WEB.DL.DD5.1.AAC2.0.H264.19david87.mkv':
+  Metadata:
+    title           : The.Avengers.Earths.Mightiest.Heroes.S01E01.Breakout.Pt.1.720p.WEB.DL.DD5.1.AAC2.0.H264.BluZilla.mkv 10375
+  Duration: 00:23:05.53, start: 0.000000, bitrate: N/A
+    Stream #0.0(eng): Video: h264 (High), yuv420p, 1280x718 [PAR 1:1 DAR 640:359], 23.98 fps, 1k tbn (default)
+    Stream #0.1(eng): Audio: ac3, 48000 Hz, 5.1, fltp, 384 kb/s (default)
+    Stream #0.2(eng): Audio: aac, 48000 Hz, stereo, fltp
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/The Avengers/The.Avengers.Earths.Mightiest.Heroes.S01E02.Breakout.Pt.2.720p.WEB.DL.DD5.1.AAC2.0.H264.19david87.mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Input #0, matroska,webm, from '/home/juanma/Videos/DSVideo/Cartoons/The Avengers/The.Avengers.Earths.Mightiest.Heroes.S01E02.Breakout.Pt.2.720p.WEB.DL.DD5.1.AAC2.0.H264.19david87.mkv':
+  Duration: 00:23:07.87, start: 0.000000, bitrate: N/A
+    Stream #0.0(eng): Video: h264 (High), yuv420p, 1280x718 [PAR 1:1 DAR 640:359], 23.98 fps, 1k tbn (default)
+    Stream #0.1(eng): Audio: ac3, 48000 Hz, 5.1, fltp, 384 kb/s (default)
+    Stream #0.2(eng): Audio: aac, 48000 Hz, stereo, fltp
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/The Avengers/The.Avengers.Earths.Mightiest.Heroes.S01E03.Iron.Man.Is.Born.720p.WEB-DL.AC3-5.1.x264.19david87.mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Input #0, matroska,webm, from '/home/juanma/Videos/DSVideo/Cartoons/The Avengers/The.Avengers.Earths.Mightiest.Heroes.S01E03.Iron.Man.Is.Born.720p.WEB-DL.AC3-5.1.x264.19david87.mkv':
+  Duration: 00:23:08.03, start: 0.000000, bitrate: N/A
+    Stream #0.0(eng): Video: h264 (High), yuv420p, 1280x718 [PAR 1:1 DAR 640:359], 23.98 fps, 1k tbn (default)
+    Stream #0.1(eng): Audio: ac3, 48000 Hz, 5.1, fltp, 384 kb/s (default)
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/The Avengers/The.Avengers.Earths.Mightiest.Heroes.S01E04.Thor.the.Mighty.720p.WEB.DL.DD5.1.AAC2.0.H264.19david87.mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Input #0, matroska,webm, from '/home/juanma/Videos/DSVideo/Cartoons/The Avengers/The.Avengers.Earths.Mightiest.Heroes.S01E04.Thor.the.Mighty.720p.WEB.DL.DD5.1.AAC2.0.H264.19david87.mkv':
+  Metadata:
+    title           : The.Avengers.Earths.Mightiest.Heroes.S01E04.Thor.the.Mighty.720p.WEB.DL.DD5.1.AAC2.0.H264.BluZilla.mkv 2879
+  Duration: 00:23:08.03, start: 0.000000, bitrate: N/A
+    Stream #0.0(eng): Video: h264 (High), yuv420p, 1280x718 [PAR 1:1 DAR 640:359], 23.98 fps, 1k tbn (default)
+    Stream #0.1(eng): Audio: ac3, 48000 Hz, 5.1, fltp, 384 kb/s (default)
+    Stream #0.2(eng): Audio: aac, 48000 Hz, stereo, fltp
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/The Avengers/The.Avengers.Earths.Mightiest.Heroes.S01E05.Hulk.Versus.the.World.720p.WEB.DL.DD5.1.AAC2.0.H264.19david87.mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Input #0, matroska,webm, from '/home/juanma/Videos/DSVideo/Cartoons/The Avengers/The.Avengers.Earths.Mightiest.Heroes.S01E05.Hulk.Versus.the.World.720p.WEB.DL.DD5.1.AAC2.0.H264.19david87.mkv':
+  Metadata:
+    title           : The.Avengers.Earths.Mightiest.Heroes.S01E05.Hulk.Versus.the.World.720p.WEB.DL.DD5.1.AAC2.0.H264.BluZilla.mkv 11741
+  Duration: 00:23:08.09, start: 0.000000, bitrate: N/A
+    Stream #0.0(eng): Video: h264 (High), yuv420p, 1280x718 [PAR 1:1 DAR 640:359], 23.98 fps, 1k tbn (default)
+    Stream #0.1(eng): Audio: ac3, 48000 Hz, 5.1, fltp, 384 kb/s (default)
+    Stream #0.2(eng): Audio: aac, 48000 Hz, stereo, fltp
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/The Avengers/The.Avengers.Earths.Mightiest.Heroes.S01E06.Meet.Captain.America.720p.WEB.DL.DD5.1.AAC2.0.H264.19david87.mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+[matroska,webm @ 0x261ef00] Format detected only with low score of 25, misdetection possible!
+[matroska,webm @ 0x261ef00] Read error at pos. 1 (0x1)
+[matroska,webm @ 0x261ef00] EBML header using unsupported features
+(EBML version 0, doctype (null), doc version 0)
+/home/juanma/Videos/DSVideo/Cartoons/The Avengers/The.Avengers.Earths.Mightiest.Heroes.S01E06.Meet.Captain.America.720p.WEB.DL.DD5.1.AAC2.0.H264.19david87.mkv: Not yet implemented in Libav, patches welcome
+/home/juanma/Videos/DSVideo/Cartoons/The Avengers/The.Avengers.Earths.Mightiest.Heroes.S01E07.The.Man.In.the.Ant.Hill.720p.WEB.DL.DD5.1.AAC2.0.H264.19david87.mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+[matroska,webm @ 0x1136f00] Format detected only with low score of 25, misdetection possible!
+[matroska,webm @ 0x1136f00] Read error at pos. 1 (0x1)
+[matroska,webm @ 0x1136f00] EBML header using unsupported features
+(EBML version 0, doctype (null), doc version 0)
+/home/juanma/Videos/DSVideo/Cartoons/The Avengers/The.Avengers.Earths.Mightiest.Heroes.S01E07.The.Man.In.the.Ant.Hill.720p.WEB.DL.DD5.1.AAC2.0.H264.19david87.mkv: Not yet implemented in Libav, patches welcome
+/home/juanma/Videos/DSVideo/Cartoons/The Avengers/The.Avengers.Earths.Mightiest.Heroes.S01E09.Living.Legend.720p.WEB.DL.DD5.1.AAC2.0.H264.19david87.mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Input #0, matroska,webm, from '/home/juanma/Videos/DSVideo/Cartoons/The Avengers/The.Avengers.Earths.Mightiest.Heroes.S01E09.Living.Legend.720p.WEB.DL.DD5.1.AAC2.0.H264.19david87.mkv':
+  Metadata:
+    title           : The.Avengers.Earths.Mightiest.Heroes.S01E09.Living.Legend.720p.WEB.DL.DD5.1.AAC2.0.H264.BluZilla.mkv 10283
+  Duration: 00:23:08.09, start: 0.000000, bitrate: N/A
+    Stream #0.0(eng): Video: h264 (High), yuv420p, 1280x718 [PAR 1:1 DAR 640:359], 23.98 fps, 1k tbn (default)
+    Stream #0.1(eng): Audio: ac3, 48000 Hz, 5.1, fltp, 384 kb/s (default)
+    Stream #0.2(eng): Audio: aac, 48000 Hz, stereo, fltp
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/The Avengers/The.Avengers.Earths.Mightiest.Heroes.S01E10.Everything.Is.Wonderful.720p.WEB.DL.DD5.1.AAC2.0.H264.19david87.mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Input #0, matroska,webm, from '/home/juanma/Videos/DSVideo/Cartoons/The Avengers/The.Avengers.Earths.Mightiest.Heroes.S01E10.Everything.Is.Wonderful.720p.WEB.DL.DD5.1.AAC2.0.H264.19david87.mkv':
+  Metadata:
+    title           : The.Avengers.Earths.Mightiest.Heroes.S01E10.Everything.Is.Wonderful.720p.WEB.DL.DD5.1.AAC2.0.H264.BluZilla.mkv 18517
+  Duration: 00:22:35.87, start: 0.000000, bitrate: N/A
+    Stream #0.0(eng): Video: h264 (High), yuv420p, 1280x718 [PAR 1:1 DAR 640:359], 23.98 fps, 1k tbn (default)
+    Stream #0.1(eng): Audio: ac3, 48000 Hz, 5.1, fltp, 384 kb/s (default)
+    Stream #0.2(eng): Audio: aac, 48000 Hz, stereo, fltp
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/The hobbit
+/home/juanma/Videos/DSVideo/Cartoons/The hobbit/The Hobbit.cd1.avi
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+[mpeg4 @ 0x1cb5960] Invalid and inefficient vfw-avi packed B frames detected
+Guessed Channel Layout for  Input Stream #0.1 : stereo
+Input #0, avi, from '/home/juanma/Videos/DSVideo/Cartoons/The hobbit/The Hobbit.cd1.avi':
+  Metadata:
+    encoder         : VirtualDubMod 1.5.4.1 (build 2178/release)
+    IAS1            : English
+  Duration: 00:40:12.24, start: 0.000000, bitrate: 2431 kb/s
+    Stream #0.0: Video: mpeg4, yuv420p, 704x528 [PAR 1:1 DAR 4:3], 23.98 fps, 23.98 tbn, 30k tbc
+    Stream #0.1: Audio: mp3, 48000 Hz, 2 channels, s16p, 165 kb/s
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/The hobbit/The Hobbit.cd2.avi
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+[mpeg4 @ 0x19708e0] Invalid and inefficient vfw-avi packed B frames detected
+Guessed Channel Layout for  Input Stream #0.1 : stereo
+Input #0, avi, from '/home/juanma/Videos/DSVideo/Cartoons/The hobbit/The Hobbit.cd2.avi':
+  Metadata:
+    encoder         : VirtualDubMod 1.5.4.1 (build 2178/release)
+    IAS1            : English
+  Duration: 00:37:25.11, start: 0.000000, bitrate: 2606 kb/s
+    Stream #0.0: Video: mpeg4, yuv420p, 704x528 [PAR 1:1 DAR 4:3], 23.98 fps, 23.98 tbn, 30k tbc
+    Stream #0.1: Audio: mp3, 48000 Hz, 2 channels, s16p, 165 kb/s
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/The hobbit/Thumbs.db
+/home/juanma/Videos/DSVideo/Cartoons/The Water Babies (1978).avi
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Guessed Channel Layout for  Input Stream #0.1 : stereo
+Input #0, avi, from '/home/juanma/Videos/DSVideo/Cartoons/The Water Babies (1978).avi':
+  Metadata:
+    encoder         : VirtualDubMod 1.5.4.1 (build 2178/release)
+    IAS1            : English
+  Duration: 01:37:49.90, start: 0.000000, bitrate: 1000 kb/s
+    Stream #0.0: Video: mpeg4 (Advanced Simple Profile), yuv420p, 464x352 [PAR 1:1 DAR 29:22], 23.98 fps, 23.98 tbn, 23.98 tbc
+    Stream #0.1: Audio: mp3, 48000 Hz, 2 channels, s16p, 174 kb/s
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/Thumbs.db
+/home/juanma/Videos/DSVideo/Cartoons/Tigra - Fuego Y Hielo.avi
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+[mpeg4 @ 0x1ca38e0] Invalid and inefficient vfw-avi packed B frames detected
+Guessed Channel Layout for  Input Stream #0.1 : stereo
+Input #0, avi, from '/home/juanma/Videos/DSVideo/Cartoons/Tigra - Fuego Y Hielo.avi':
+  Duration: 01:18:15.84, start: 0.000000, bitrate: 1251 kb/s
+    Stream #0.0: Video: mpeg4, yuv420p, 352x192 [PAR 1:1 DAR 11:6], 25 fps, 25 tbn, 30k tbc
+    Metadata:
+      title           : Video
+    Stream #0.1: Audio: mp3, 44100 Hz, 2 channels, s16p, 128 kb/s
+    Metadata:
+      title           : Audio
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/True Mazinger
+/home/juanma/Videos/DSVideo/Cartoons/True Mazinger/[Shinsen-Subs]_True_Mazinger_-_01_[1280x720_H.264_Vorbis][DEFD8995].mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Input #0, matroska,webm, from '/home/juanma/Videos/DSVideo/Cartoons/True Mazinger/[Shinsen-Subs]_True_Mazinger_-_01_[1280x720_H.264_Vorbis][DEFD8995].mkv':
+  Metadata:
+    title           : [Shinsen-Subs] True Mazinger - 01
+  Duration: 00:20:55.01, start: 0.000000, bitrate: 2338 kb/s
+    Chapter #0.0: start 0.000000, end 47.005000
+    Metadata:
+      title           : Introduction
+    Chapter #0.1: start 47.005000, end 703.912000
+    Metadata:
+      title           : Part One
+    Chapter #0.2: start 703.912000, end 1179.970000
+    Metadata:
+      title           : Part Two
+    Chapter #0.3: start 1179.970000, end 1255.016000
+    Metadata:
+      title           : Ending
+    Stream #0.0: Video: h264 (High), yuv420p, 1280x720, PAR 1:1 DAR 16:9, 23.98 fps, 1k tbn, 47.95 tbc (default)
+    Metadata:
+      title           : [Shinsen-Subs] True Mazinger - 01
+    Stream #0.1(jpn): Audio: vorbis, 48000 Hz, stereo, fltp (default)
+    Metadata:
+      title           : Japanese
+    Stream #0.2(eng): Subtitle: ass (default)
+    Metadata:
+      title           : ASS subtitles
+    Stream #0.3: Attachment: [0][0][0][0] / 0x0000
+    Metadata:
+      filename        : ARIALNB.TTF
+      mimetype        : application/x-truetype-font
+    Stream #0.4: Attachment: [0][0][0][0] / 0x0000
+    Metadata:
+      filename        : Burklein-Oblique.ttf
+      mimetype        : application/x-truetype-font
+    Stream #0.5: Attachment: [0][0][0][0] / 0x0000
+    Metadata:
+      filename        : COMMUNIS.TTF
+      mimetype        : application/x-truetype-font
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/True Mazinger/[Shinsen-Subs]_True_Mazinger_-_02_[1280x720_H.264_Vorbis][6D30E7FE].mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Input #0, matroska,webm, from '/home/juanma/Videos/DSVideo/Cartoons/True Mazinger/[Shinsen-Subs]_True_Mazinger_-_02_[1280x720_H.264_Vorbis][6D30E7FE].mkv':
+  Metadata:
+    title           : [Shinsen-Subs] True Mazinger - 02
+  Duration: 00:20:54.54, start: 0.000000, bitrate: 2338 kb/s
+    Chapter #0.0: start 0.000000, end 84.918000
+    Metadata:
+      title           : Opening
+    Chapter #0.1: start 84.918000, end 622.956000
+    Metadata:
+      title           : Part One
+    Chapter #0.2: start 622.956000, end 1179.929000
+    Metadata:
+      title           : Part Two
+    Chapter #0.3: start 1179.929000, end 1254.545000
+    Metadata:
+      title           : Ending
+    Stream #0.0(jpn): Video: h264 (High), yuv420p, 1280x720, PAR 1:1 DAR 16:9, 23.98 fps, 1k tbn, 47.95 tbc (default)
+    Metadata:
+      title           : [Shinsen-Subs] True Mazinger - 02
+    Stream #0.1(jpn): Audio: vorbis, 48000 Hz, stereo, fltp (default)
+    Metadata:
+      title           : Japanese
+    Stream #0.2(eng): Subtitle: ass (default)
+    Metadata:
+      title           : ASS subtitles
+    Stream #0.3: Attachment: [0][0][0][0] / 0x0000
+    Metadata:
+      filename        : ARIALNB.TTF
+      mimetype        : application/x-truetype-font
+    Stream #0.4: Attachment: [0][0][0][0] / 0x0000
+    Metadata:
+      filename        : blamblam_reg.ttf
+      mimetype        : application/x-truetype-font
+    Stream #0.5: Attachment: [0][0][0][0] / 0x0000
+    Metadata:
+      filename        : Burklein-Oblique.ttf
+      mimetype        : application/x-truetype-font
+    Stream #0.6: Attachment: [0][0][0][0] / 0x0000
+    Metadata:
+      filename        : COMMUNIS.TTF
+      mimetype        : application/x-truetype-font
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/True Mazinger/[Shinsen-Subs]_True_Mazinger_-_03_[1280x720_H.264_Vorbis][F3B22FE8].mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Input #0, matroska,webm, from '/home/juanma/Videos/DSVideo/Cartoons/True Mazinger/[Shinsen-Subs]_True_Mazinger_-_03_[1280x720_H.264_Vorbis][F3B22FE8].mkv':
+  Metadata:
+    title           : [Shinsen-Subs] True Mazinger - 03
+  Duration: 00:20:54.89, start: 0.000000, bitrate: 2337 kb/s
+    Chapter #0.0: start 0.000000, end 84.918000
+    Metadata:
+      title           : Opening
+    Chapter #0.1: start 84.918000, end 491.908000
+    Metadata:
+      title           : Part One
+    Chapter #0.2: start 491.908000, end 1179.887000
+    Metadata:
+      title           : Part Two
+    Chapter #0.3: start 1179.887000, end 1254.890000
+    Metadata:
+      title           : Ending
+    Stream #0.0(jpn): Video: h264 (High), yuv420p, 1280x720, PAR 1:1 DAR 16:9, 23.98 fps, 1k tbn, 47.95 tbc (default)
+    Metadata:
+      title           : [Shinsen-Subs] True Mazinger - 03
+    Stream #0.1(jpn): Audio: vorbis, 48000 Hz, stereo, fltp (default)
+    Metadata:
+      title           : Japanese
+    Stream #0.2(eng): Subtitle: ass (default)
+    Metadata:
+      title           : ASS subtitles
+    Stream #0.3: Attachment: [0][0][0][0] / 0x0000
+    Metadata:
+      filename        : ARIALNB.TTF
+      mimetype        : application/x-truetype-font
+    Stream #0.4: Attachment: [0][0][0][0] / 0x0000
+    Metadata:
+      filename        : blamblam_reg.ttf
+      mimetype        : application/x-truetype-font
+    Stream #0.5: Attachment: [0][0][0][0] / 0x0000
+    Metadata:
+      filename        : Burklein-Oblique.ttf
+      mimetype        : application/x-truetype-font
+    Stream #0.6: Attachment: [0][0][0][0] / 0x0000
+    Metadata:
+      filename        : COMMUNIS.TTF
+      mimetype        : application/x-truetype-font
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/True Mazinger/[Shinsen-Subs]_True_Mazinger_-_05_[1280x720_H.264_Vorbis][5A3027C9].mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Input #0, matroska,webm, from '/home/juanma/Videos/DSVideo/Cartoons/True Mazinger/[Shinsen-Subs]_True_Mazinger_-_05_[1280x720_H.264_Vorbis][5A3027C9].mkv':
+  Metadata:
+    title           : [Shinsen-Subs] True Mazinger - 05
+  Duration: 00:20:54.88, start: 0.000000, bitrate: 2337 kb/s
+    Chapter #0.0: start 0.000000, end 84.960000
+    Metadata:
+      title           : Opening
+    Chapter #0.1: start 84.960000, end 726.935000
+    Metadata:
+      title           : Part One
+    Chapter #0.2: start 726.935000, end 1179.887000
+    Metadata:
+      title           : Part Two
+    Chapter #0.3: start 1179.887000, end 1254.885000
+    Metadata:
+      title           : Ending
+    Stream #0.0(jpn): Video: h264 (High), yuv420p, 1280x720, PAR 1:1 DAR 16:9, 23.98 fps, 1k tbn, 47.95 tbc (default)
+    Metadata:
+      title           : [Shinsen-Subs] True Mazinger - 05
+    Stream #0.1(jpn): Audio: vorbis, 48000 Hz, stereo, fltp (default)
+    Metadata:
+      title           : Japanese
+    Stream #0.2(eng): Subtitle: ass (default)
+    Metadata:
+      title           : ASS subtitles
+    Stream #0.3: Attachment: [0][0][0][0] / 0x0000
+    Metadata:
+      filename        : ARIALNB.TTF
+      mimetype        : application/x-truetype-font
+    Stream #0.4: Attachment: [0][0][0][0] / 0x0000
+    Metadata:
+      filename        : blamblam_reg.ttf
+      mimetype        : application/x-truetype-font
+    Stream #0.5: Attachment: [0][0][0][0] / 0x0000
+    Metadata:
+      filename        : Burklein-Oblique.ttf
+      mimetype        : application/x-truetype-font
+    Stream #0.6: Attachment: [0][0][0][0] / 0x0000
+    Metadata:
+      filename        : Mazinger.ttf
+      mimetype        : application/x-truetype-font
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/Vuelo de los Dragones
+/home/juanma/Videos/DSVideo/Cartoons/Vuelo de los Dragones/El Vuelo de los Dragones (HD) (16.9).avi
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+[mpeg4 @ 0xcc4900] Invalid and inefficient vfw-avi packed B frames detected
+Guessed Channel Layout for  Input Stream #0.1 : stereo
+Guessed Channel Layout for  Input Stream #0.2 : stereo
+Input #0, avi, from '/home/juanma/Videos/DSVideo/Cartoons/Vuelo de los Dragones/El Vuelo de los Dragones (HD) (16.9).avi':
+  Metadata:
+    encoder         : VirtualDubMod 1.5.4.1 (build 2066/release)
+  Duration: 01:35:08.11, start: 0.000000, bitrate: 890 kb/s
+    Stream #0.0: Video: mpeg4 (Advanced Simple Profile), yuv420p, 640x360 [PAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbn, 23.98 tbc
+    Stream #0.1: Audio: mp3, 44100 Hz, 2 channels, s16p, 128 kb/s
+    Stream #0.2: Audio: mp3, 44100 Hz, 2 channels, s16p, 128 kb/s
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/Vuelo de los Dragones/El Vuelo De Los Dragones.avi
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Guessed Channel Layout for  Input Stream #0.1 : stereo
+Input #0, avi, from '/home/juanma/Videos/DSVideo/Cartoons/Vuelo de los Dragones/El Vuelo De Los Dragones.avi':
+  Metadata:
+    encoder         : Nandub v1.0rc2
+  Duration: 01:35:35.92, start: 0.000000, bitrate: 1129 kb/s
+    Stream #0.0: Video: msmpeg4, yuv420p, 640x480, 25 fps, 25 tbn
+    Stream #0.1: Audio: mp3, 48000 Hz, 2 channels, s16p, 86 kb/s
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/Vuelo de los Dragones/Thumbs.db
+/home/juanma/Videos/DSVideo/Cartoons/Wallace And Gromit - A Grand Day Out (1989)
+/home/juanma/Videos/DSVideo/Cartoons/Wallace And Gromit - A Grand Day Out (1989)/Thumbs.db
+/home/juanma/Videos/DSVideo/Cartoons/Wallace And Gromit - A Grand Day Out (1989)/Wallace And Gromit - A Grand Day Out - 1989 - XviD.avi
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+[mpeg4 @ 0xc599a0] Invalid and inefficient vfw-avi packed B frames detected
+Guessed Channel Layout for  Input Stream #0.1 : stereo
+Input #0, avi, from '/home/juanma/Videos/DSVideo/Cartoons/Wallace And Gromit - A Grand Day Out (1989)/Wallace And Gromit - A Grand Day Out - 1989 - XviD.avi':
+  Metadata:
+    encoder         : VirtualDubMod 1.5.10.1 (build 2439/release)
+  Duration: 00:22:43.93, start: 0.000000, bitrate: 1354 kb/s
+    Stream #0.0: Video: mpeg4, yuv420p, 512x368 [PAR 1:1 DAR 32:23], 29.97 fps, 29.97 tbn, 30k tbc
+    Stream #0.1: Audio: mp3, 48000 Hz, 2 channels, s16p, 128 kb/s
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/Wallace and Gromit - A matter of loaf and death
+/home/juanma/Videos/DSVideo/Cartoons/Wallace and Gromit - A matter of loaf and death/a.matter.of.loaf.and.death.pdtv.xvid-wpi.avi
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Guessed Channel Layout for  Input Stream #0.1 : stereo
+Input #0, avi, from '/home/juanma/Videos/DSVideo/Cartoons/Wallace and Gromit - A matter of loaf and death/a.matter.of.loaf.and.death.pdtv.xvid-wpi.avi':
+  Metadata:
+    encoder         : VirtualDubMod 1.5.10.2 (build 2540/release)
+  Duration: 00:29:00.20, start: 0.000000, bitrate: 1123 kb/s
+    Stream #0.0: Video: mpeg4 (Advanced Simple Profile), yuv420p, 624x352 [PAR 1:1 DAR 39:22], 25 fps, 25 tbn, 25 tbc
+    Stream #0.1: Audio: mp3, 48000 Hz, 2 channels, s16p, 131 kb/s
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/Wallace and Gromit - A matter of loaf and death/a.matter.of.loaf.and.death.pdtv.xvid-wpi.srt
+/home/juanma/Videos/DSVideo/Cartoons/Wallace and Gromit - A matter of loaf and death/Thumbs.db
+/home/juanma/Videos/DSVideo/Cartoons/Zipi y Zape La pelicula.avi
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+[mpeg4 @ 0x1f568e0] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x1f568e0] frame skip 8
+    Last message repeated 1 times
+Guessed Channel Layout for  Input Stream #0.1 : stereo
+Input #0, avi, from '/home/juanma/Videos/DSVideo/Cartoons/Zipi y Zape La pelicula.avi':
+  Duration: 01:19:30.44, start: 0.000000, bitrate: 1180 kb/s
+    Stream #0.0: Video: mpeg4 (Advanced Simple Profile), yuv420p, 640x480 [PAR 1:1 DAR 4:3], 25 fps, 25 tbn, 25 tbc
+    Stream #0.1: Audio: mp3, 48000 Hz, 2 channels, s16p, 128 kb/s
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/Zipi y Zape Y El Club De La Canica(2013).avi
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+[mpeg4 @ 0x18448a0] Invalid and inefficient vfw-avi packed B frames detected
+Guessed Channel Layout for  Input Stream #0.1 : stereo
+Input #0, avi, from '/home/juanma/Videos/DSVideo/Cartoons/Zipi y Zape Y El Club De La Canica(2013).avi':
+  Duration: 01:31:54.75, start: 0.000000, bitrate: 2118 kb/s
+    Stream #0.0: Video: mpeg4, yuv420p, 608x256 [PAR 1:1 DAR 19:8], 23.98 fps, 23.98 tbn, 30k tbc
+    Stream #0.1: Audio: mp3, 44100 Hz, 2 channels, s16p, 128 kb/s
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/Batman Assault on Arkham (2014)(1080p).mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Input #0, matroska,webm, from '/home/juanma/Videos/DSVideo/Cartoons/Batman Assault on Arkham (2014)(1080p).mkv':
+  Duration: 01:15:53.34, start: 0.000000, bitrate: N/A
+    Stream #0.0: Video: h264 (High), yuv420p, 1918x1078 [PAR 1:1 DAR 137:77], 23.98 fps, 1k tbn (default)
+    Metadata:
+      BPS             : 5069670
+      BPS-eng         : 5069670
+      DURATION        : 01:15:53.341000000
+      DURATION-eng    : 01:15:53.341000000
+      NUMBER_OF_FRAMES: 109171
+      NUMBER_OF_FRAMES-eng: 109171
+      NUMBER_OF_BYTES : 2885492067
+      NUMBER_OF_BYTES-eng: 2885492067
+      _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-29 00:33:34
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-29 00:33:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.1(eng): Audio: ac3, 48000 Hz, 5.1, fltp, 384 kb/s (default)
+    Metadata:
+      BPS             : 384000
+      BPS-eng         : 384000
+      DURATION        : 01:15:53.344000000
+      DURATION-eng    : 01:15:53.344000000
+      NUMBER_OF_FRAMES: 142292
+      NUMBER_OF_FRAMES-eng: 142292
+      NUMBER_OF_BYTES : 218560512
+      NUMBER_OF_BYTES-eng: 218560512
+      _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-29 00:33:34
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-29 00:33:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.2(spa): Subtitle: [0][0][0][0] / 0x0000
+    Metadata:
+      BPS             : 41
+      BPS-eng         : 41
+      DURATION        : 01:12:29.683000000
+      DURATION-eng    : 01:12:29.683000000
+      NUMBER_OF_FRAMES: 715
+      NUMBER_OF_FRAMES-eng: 715
+      NUMBER_OF_BYTES : 22723
+      NUMBER_OF_BYTES-eng: 22723
+      _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-29 00:33:34
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-29 00:33:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.3(fre): Subtitle: [0][0][0][0] / 0x0000
+    Metadata:
+      BPS             : 53
+      BPS-eng         : 53
+      DURATION        : 01:12:29.683000000
+      DURATION-eng    : 01:12:29.683000000
+      NUMBER_OF_FRAMES: 713
+      NUMBER_OF_FRAMES-eng: 713
+      NUMBER_OF_BYTES : 28876
+      NUMBER_OF_BYTES-eng: 28876
+      _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-29 00:33:34
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-29 00:33:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.4(por): Subtitle: [0][0][0][0] / 0x0000
+    Metadata:
+      BPS             : 39
+      BPS-eng         : 39
+      DURATION        : 01:12:19.339000000
+      DURATION-eng    : 01:12:19.339000000
+      NUMBER_OF_FRAMES: 764
+      NUMBER_OF_FRAMES-eng: 764
+      NUMBER_OF_BYTES : 21293
+      NUMBER_OF_BYTES-eng: 21293
+      _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-29 00:33:34
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-29 00:33:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.5(ita): Subtitle: [0][0][0][0] / 0x0000
+    Metadata:
+      BPS             : 43
+      BPS-eng         : 43
+      DURATION        : 01:12:19.339000000
+      DURATION-eng    : 01:12:19.339000000
+      NUMBER_OF_FRAMES: 761
+      NUMBER_OF_FRAMES-eng: 761
+      NUMBER_OF_BYTES : 23430
+      NUMBER_OF_BYTES-eng: 23430
+      _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-29 00:33:34
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-29 00:33:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.6(ger): Subtitle: [0][0][0][0] / 0x0000
+    Metadata:
+      BPS             : 48
+      BPS-eng         : 48
+      DURATION        : 01:12:38.066000000
+      DURATION-eng    : 01:12:38.066000000
+      NUMBER_OF_FRAMES: 767
+      NUMBER_OF_FRAMES-eng: 767
+      NUMBER_OF_BYTES : 26307
+      NUMBER_OF_BYTES-eng: 26307
+      _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-29 00:33:34
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-29 00:33:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.7(dut): Subtitle: [0][0][0][0] / 0x0000
+    Metadata:
+      BPS             : 41
+      BPS-eng         : 41
+      DURATION        : 01:12:19.340000000
+      DURATION-eng    : 01:12:19.340000000
+      NUMBER_OF_FRAMES: 703
+      NUMBER_OF_FRAMES-eng: 703
+      NUMBER_OF_BYTES : 22609
+      NUMBER_OF_BYTES-eng: 22609
+      _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-29 00:33:34
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-29 00:33:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.8(swe): Subtitle: [0][0][0][0] / 0x0000
+    Metadata:
+      BPS             : 43
+      BPS-eng         : 43
+      DURATION        : 01:12:19.339000000
+      DURATION-eng    : 01:12:19.339000000
+      NUMBER_OF_FRAMES: 768
+      NUMBER_OF_FRAMES-eng: 768
+      NUMBER_OF_BYTES : 23397
+      NUMBER_OF_BYTES-eng: 23397
+      _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-29 00:33:34
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-29 00:33:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.9(nor): Subtitle: [0][0][0][0] / 0x0000
+    Metadata:
+      BPS             : 44
+      BPS-eng         : 44
+      DURATION        : 01:12:19.339000000
+      DURATION-eng    : 01:12:19.339000000
+      NUMBER_OF_FRAMES: 758
+      NUMBER_OF_FRAMES-eng: 758
+      NUMBER_OF_BYTES : 23874
+      NUMBER_OF_BYTES-eng: 23874
+      _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-29 00:33:34
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-29 00:33:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.10(dan): Subtitle: [0][0][0][0] / 0x0000
+    Metadata:
+      BPS             : 42
+      BPS-eng         : 42
+      DURATION        : 01:12:19.339000000
+      DURATION-eng    : 01:12:19.339000000
+      NUMBER_OF_FRAMES: 763
+      NUMBER_OF_FRAMES-eng: 763
+      NUMBER_OF_BYTES : 23084
+      NUMBER_OF_BYTES-eng: 23084
+      _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-29 00:33:34
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-29 00:33:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.11(fin): Subtitle: [0][0][0][0] / 0x0000
+    Metadata:
+      BPS             : 43
+      BPS-eng         : 43
+      DURATION        : 01:12:19.339000000
+      DURATION-eng    : 01:12:19.339000000
+      NUMBER_OF_FRAMES: 766
+      NUMBER_OF_FRAMES-eng: 766
+      NUMBER_OF_BYTES : 23408
+      NUMBER_OF_BYTES-eng: 23408
+      _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-29 00:33:34
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-29 00:33:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.12(gre): Subtitle: [0][0][0][0] / 0x0000
+    Metadata:
+      BPS             : 69
+      BPS-eng         : 69
+      DURATION        : 01:12:19.339000000
+      DURATION-eng    : 01:12:19.339000000
+      NUMBER_OF_FRAMES: 772
+      NUMBER_OF_FRAMES-eng: 772
+      NUMBER_OF_BYTES : 37791
+      NUMBER_OF_BYTES-eng: 37791
+      _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-29 00:33:34
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-29 00:33:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.13(pol): Subtitle: [0][0][0][0] / 0x0000
+    Metadata:
+      BPS             : 38
+      BPS-eng         : 38
+      DURATION        : 01:12:49.452000000
+      DURATION-eng    : 01:12:49.452000000
+      NUMBER_OF_FRAMES: 627
+      NUMBER_OF_FRAMES-eng: 627
+      NUMBER_OF_BYTES : 20815
+      NUMBER_OF_BYTES-eng: 20815
+      _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-29 00:33:34
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-29 00:33:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.14(may): Subtitle: [0][0][0][0] / 0x0000
+    Metadata:
+      BPS             : 45
+      BPS-eng         : 45
+      DURATION        : 01:12:29.683000000
+      DURATION-eng    : 01:12:29.683000000
+      NUMBER_OF_FRAMES: 777
+      NUMBER_OF_FRAMES-eng: 777
+      NUMBER_OF_BYTES : 24992
+      NUMBER_OF_BYTES-eng: 24992
+      _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-29 00:33:34
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-29 00:33:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.15(tha): Subtitle: [0][0][0][0] / 0x0000
+    Metadata:
+      BPS             : 96
+      BPS-eng         : 96
+      DURATION        : 01:12:38.817000000
+      DURATION-eng    : 01:12:38.817000000
+      NUMBER_OF_FRAMES: 735
+      NUMBER_OF_FRAMES-eng: 735
+      NUMBER_OF_BYTES : 52393
+      NUMBER_OF_BYTES-eng: 52393
+      _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-29 00:33:34
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-29 00:33:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.16(kor): Subtitle: [0][0][0][0] / 0x0000
+    Metadata:
+      BPS             : 47
+      BPS-eng         : 47
+      DURATION        : 01:12:29.683000000
+      DURATION-eng    : 01:12:29.683000000
+      NUMBER_OF_FRAMES: 718
+      NUMBER_OF_FRAMES-eng: 718
+      NUMBER_OF_BYTES : 25693
+      NUMBER_OF_BYTES-eng: 25693
+      _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-29 00:33:34
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-29 00:33:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.17(ind): Subtitle: [0][0][0][0] / 0x0000
+    Metadata:
+      BPS             : 39
+      BPS-eng         : 39
+      DURATION        : 01:12:29.683000000
+      DURATION-eng    : 01:12:29.683000000
+      NUMBER_OF_FRAMES: 765
+      NUMBER_OF_FRAMES-eng: 765
+      NUMBER_OF_BYTES : 21436
+      NUMBER_OF_BYTES-eng: 21436
+      _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-29 00:33:34
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-29 00:33:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.18(chi): Subtitle: [0][0][0][0] / 0x0000
+    Metadata:
+      BPS             : 38
+      BPS-eng         : 38
+      DURATION        : 01:12:19.339000000
+      DURATION-eng    : 01:12:19.339000000
+      NUMBER_OF_FRAMES: 772
+      NUMBER_OF_FRAMES-eng: 772
+      NUMBER_OF_BYTES : 20725
+      NUMBER_OF_BYTES-eng: 20725
+      _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-29 00:33:34
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-29 00:33:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.19(chi): Subtitle: [0][0][0][0] / 0x0000
+    Metadata:
+      BPS             : 38
+      BPS-eng         : 38
+      DURATION        : 01:12:19.339000000
+      DURATION-eng    : 01:12:19.339000000
+      NUMBER_OF_FRAMES: 772
+      NUMBER_OF_FRAMES-eng: 772
+      NUMBER_OF_BYTES : 20725
+      NUMBER_OF_BYTES-eng: 20725
+      _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-29 00:33:34
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-29 00:33:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.20(chi): Subtitle: [0][0][0][0] / 0x0000
+    Metadata:
+      BPS             : 38
+      BPS-eng         : 38
+      DURATION        : 01:12:29.683000000
+      DURATION-eng    : 01:12:29.683000000
+      NUMBER_OF_FRAMES: 774
+      NUMBER_OF_FRAMES-eng: 774
+      NUMBER_OF_BYTES : 21080
+      NUMBER_OF_BYTES-eng: 21080
+      _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-29 00:33:34
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-29 00:33:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.21(hun): Subtitle: [0][0][0][0] / 0x0000
+    Metadata:
+      BPS             : 42
+      BPS-eng         : 42
+      DURATION        : 01:12:29.683000000
+      DURATION-eng    : 01:12:29.683000000
+      NUMBER_OF_FRAMES: 765
+      NUMBER_OF_FRAMES-eng: 765
+      NUMBER_OF_BYTES : 23348
+      NUMBER_OF_BYTES-eng: 23348
+      _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-29 00:33:34
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-29 00:33:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.22(ice): Subtitle: [0][0][0][0] / 0x0000
+    Metadata:
+      BPS             : 45
+      BPS-eng         : 45
+      DURATION        : 01:12:29.683000000
+      DURATION-eng    : 01:12:29.683000000
+      NUMBER_OF_FRAMES: 766
+      NUMBER_OF_FRAMES-eng: 766
+      NUMBER_OF_BYTES : 24762
+      NUMBER_OF_BYTES-eng: 24762
+      _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-29 00:33:34
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-29 00:33:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.23(tur): Subtitle: [0][0][0][0] / 0x0000
+    Metadata:
+      BPS             : 46
+      BPS-eng         : 46
+      DURATION        : 01:12:19.339000000
+      DURATION-eng    : 01:12:19.339000000
+      NUMBER_OF_FRAMES: 759
+      NUMBER_OF_FRAMES-eng: 759
+      NUMBER_OF_BYTES : 25096
+      NUMBER_OF_BYTES-eng: 25096
+      _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-29 00:33:34
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-29 00:33:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.24(ara): Subtitle: [0][0][0][0] / 0x0000
+    Metadata:
+      BPS             : 61
+      BPS-eng         : 61
+      DURATION        : 01:12:29.683000000
+      DURATION-eng    : 01:12:29.683000000
+      NUMBER_OF_FRAMES: 774
+      NUMBER_OF_FRAMES-eng: 774
+      NUMBER_OF_BYTES : 33228
+      NUMBER_OF_BYTES-eng: 33228
+      _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-29 00:33:34
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-29 00:33:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.25(heb): Subtitle: [0][0][0][0] / 0x0000
+    Metadata:
+      BPS             : 56
+      BPS-eng         : 56
+      DURATION        : 01:12:29.683000000
+      DURATION-eng    : 01:12:29.683000000
+      NUMBER_OF_FRAMES: 774
+      NUMBER_OF_FRAMES-eng: 774
+      NUMBER_OF_BYTES : 30515
+      NUMBER_OF_BYTES-eng: 30515
+      _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-29 00:33:34
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-29 00:33:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.26(rus): Subtitle: [0][0][0][0] / 0x0000
+    Metadata:
+      BPS             : 67
+      BPS-eng         : 67
+      DURATION        : 01:12:19.340000000
+      DURATION-eng    : 01:12:19.340000000
+      NUMBER_OF_FRAMES: 736
+      NUMBER_OF_FRAMES-eng: 736
+      NUMBER_OF_BYTES : 36411
+      NUMBER_OF_BYTES-eng: 36411
+      _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-29 00:33:34
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-29 00:33:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.27(bul): Subtitle: [0][0][0][0] / 0x0000
+    Metadata:
+      BPS             : 69
+      BPS-eng         : 69
+      DURATION        : 01:12:29.683000000
+      DURATION-eng    : 01:12:29.683000000
+      NUMBER_OF_FRAMES: 775
+      NUMBER_OF_FRAMES-eng: 775
+      NUMBER_OF_BYTES : 37877
+      NUMBER_OF_BYTES-eng: 37877
+      _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-29 00:33:34
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-29 00:33:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.28(ukr): Subtitle: [0][0][0][0] / 0x0000
+    Metadata:
+      BPS             : 72
+      BPS-eng         : 72
+      DURATION        : 01:12:29.683000000
+      DURATION-eng    : 01:12:29.683000000
+      NUMBER_OF_FRAMES: 774
+      NUMBER_OF_FRAMES-eng: 774
+      NUMBER_OF_BYTES : 39671
+      NUMBER_OF_BYTES-eng: 39671
+      _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-29 00:33:34
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-29 00:33:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.29(srp): Subtitle: [0][0][0][0] / 0x0000
+    Metadata:
+      BPS             : 42
+      BPS-eng         : 42
+      DURATION        : 01:12:29.683000000
+      DURATION-eng    : 01:12:29.683000000
+      NUMBER_OF_FRAMES: 774
+      NUMBER_OF_FRAMES-eng: 774
+      NUMBER_OF_BYTES : 23286
+      NUMBER_OF_BYTES-eng: 23286
+      _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-29 00:33:34
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-29 00:33:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.30(hrv): Subtitle: [0][0][0][0] / 0x0000
+    Metadata:
+      BPS             : 40
+      BPS-eng         : 40
+      DURATION        : 01:12:29.683000000
+      DURATION-eng    : 01:12:29.683000000
+      NUMBER_OF_FRAMES: 753
+      NUMBER_OF_FRAMES-eng: 753
+      NUMBER_OF_BYTES : 21912
+      NUMBER_OF_BYTES-eng: 21912
+      _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-29 00:33:34
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-29 00:33:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.31(cze): Subtitle: [0][0][0][0] / 0x0000
+    Metadata:
+      BPS             : 41
+      BPS-eng         : 41
+      DURATION        : 01:12:19.339000000
+      DURATION-eng    : 01:12:19.339000000
+      NUMBER_OF_FRAMES: 764
+      NUMBER_OF_FRAMES-eng: 764
+      NUMBER_OF_BYTES : 22502
+      NUMBER_OF_BYTES-eng: 22502
+      _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-29 00:33:34
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-29 00:33:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.32(slo): Subtitle: [0][0][0][0] / 0x0000
+    Metadata:
+      BPS             : 44
+      BPS-eng         : 44
+      DURATION        : 01:12:29.683000000
+      DURATION-eng    : 01:12:29.683000000
+      NUMBER_OF_FRAMES: 766
+      NUMBER_OF_FRAMES-eng: 766
+      NUMBER_OF_BYTES : 23954
+      NUMBER_OF_BYTES-eng: 23954
+      _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-29 00:33:34
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-29 00:33:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.33(slv): Subtitle: [0][0][0][0] / 0x0000
+    Metadata:
+      BPS             : 36
+      BPS-eng         : 36
+      DURATION        : 01:12:29.683000000
+      DURATION-eng    : 01:12:29.683000000
+      NUMBER_OF_FRAMES: 768
+      NUMBER_OF_FRAMES-eng: 768
+      NUMBER_OF_BYTES : 19740
+      NUMBER_OF_BYTES-eng: 19740
+      _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-29 00:33:34
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-29 00:33:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.34(est): Subtitle: [0][0][0][0] / 0x0000
+    Metadata:
+      BPS             : 39
+      BPS-eng         : 39
+      DURATION        : 01:12:29.683000000
+      DURATION-eng    : 01:12:29.683000000
+      NUMBER_OF_FRAMES: 733
+      NUMBER_OF_FRAMES-eng: 733
+      NUMBER_OF_BYTES : 21307
+      NUMBER_OF_BYTES-eng: 21307
+      _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 64bit built on Jul 27 2014 13:06:55
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-29 00:33:34
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-29 00:33:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/How.to.Train.Your.Dragon.2(2014)(720p)
+/home/juanma/Videos/DSVideo/Cartoons/How.to.Train.Your.Dragon.2(2014)(720p)/How.to.Train.Your.Dragon.2.2014.720p.WEB-DL.x264-ZIKAS.mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Input #0, matroska,webm, from '/home/juanma/Videos/DSVideo/Cartoons/How.to.Train.Your.Dragon.2(2014)(720p)/How.to.Train.Your.Dragon.2.2014.720p.WEB-DL.x264-ZIKAS.mkv':
+  Metadata:
+    TITLE           : How to Train Your Dragon 2
+    ARTIST          : Dean Deblois
+    DATE_RELEASED   : 2014-09-01T07:00:00Z
+    GENRE           : Для всей семьи
+    DESCRIPTION     : The thrilling second chapter of the epic HOW TO TRAIN YOUR DRAGON trilogy returns to the fantastical
+    SYNOPSIS        : The thrilling second chapter of the epic HOW TO TRAIN YOUR DRAGON trilogy returns to the fantastical world of the heroic Viking Hiccup and his faithful dragon Toothless.  The inseparable duo must protect the peace – and save the future of men and dragons from the power-hungry Drago.
+  Duration: 01:42:13.12, start: 0.000000, bitrate: N/A
+    Stream #0.0(eng): Video: h264 (High), yuv420p, 1280x544, PAR 1:1 DAR 40:17, 23.98 fps, 1k tbn, 47.95 tbc (default)
+    Stream #0.1(eng): Audio: aac, 48000 Hz, stereo, fltp (default)
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/[Hatsuyuki-TechMod]_Space_Pirate_Captain_Harlock_(2013)_[BD_1080p_x264_FLAC][127B7461].mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Input #0, matroska,webm, from '/home/juanma/Videos/DSVideo/Cartoons/[Hatsuyuki-TechMod]_Space_Pirate_Captain_Harlock_(2013)_[BD_1080p_x264_FLAC][127B7461].mkv':
+  Metadata:
+    title           : [Hatsuyuki-TechMod]_Space_Pirate_Captain_Harlock_(2013)
+  Duration: 01:55:06.44, start: 0.000000, bitrate: 9663 kb/s
+    Chapter #0.0: start 0.000000, end 120.453000
+    Metadata:
+      title           : 00:00:00.000
+    Chapter #0.1: start 120.453000, end 462.920000
+    Metadata:
+      title           : 00:02:00.453
+    Chapter #0.2: start 462.920000, end 856.897000
+    Metadata:
+      title           : 00:07:42.920
+    Chapter #0.3: start 856.897000, end 1080.120000
+    Metadata:
+      title           : 00:14:16.897
+    Chapter #0.4: start 1080.120000, end 1442.315000
+    Metadata:
+      title           : 00:18:00.120
+    Chapter #0.5: start 1442.315000, end 1851.349000
+    Metadata:
+      title           : 00:24:02.315
+    Chapter #0.6: start 1851.349000, end 2431.053000
+    Metadata:
+      title           : 00:30:51.349
+    Chapter #0.7: start 2431.053000, end 2622.411000
+    Metadata:
+      title           : 00:40:31.053
+    Chapter #0.8: start 2622.411000, end 2961.500000
+    Metadata:
+      title           : 00:43:42.411
+    Chapter #0.9: start 2961.500000, end 3243.365000
+    Metadata:
+      title           : 00:49:21.500
+    Chapter #0.10: start 3243.365000, end 3998.244000
+    Metadata:
+      title           : 00:54:03.365
+    Chapter #0.11: start 3998.244000, end 4885.422000
+    Metadata:
+      title           : 01:06:38.244
+    Chapter #0.12: start 4885.422000, end 5020.557000
+    Metadata:
+      title           : 01:21:25.422
+    Chapter #0.13: start 5020.557000, end 5815.726000
+    Metadata:
+      title           : 01:23:40.557
+    Chapter #0.14: start 5815.726000, end 6101.512000
+    Metadata:
+      title           : 01:36:55.726
+    Chapter #0.15: start 6101.512000, end 6462.456000
+    Metadata:
+      title           : 01:41:41.512
+    Chapter #0.16: start 6462.456000, end 6906.441000
+    Metadata:
+      title           : 01:47:42.456
+    Stream #0.0(eng): Subtitle: ass (default)
+    Metadata:
+      title           : [Hatsuyuki-TechMod]_Space_Pirate_Captain_Harlock_(2013)
+    Stream #0.1(jpn): Video: h264 (High), yuv420p, 1920x804 [PAR 1:1 DAR 160:67], 23.98 fps, 1k tbn, 180k tbc
+    Metadata:
+      title           : [TechMod] Captain Harlock (BDRip 1920x804 x264 FLAC)
+      BPS             : 8292230
+      BPS-eng         : 8292230
+      DURATION        : 01:55:06.441000000
+      DURATION-eng    : 01:55:06.441000000
+      NUMBER_OF_FRAMES: 165589
+      NUMBER_OF_FRAMES-eng: 165589
+      NUMBER_OF_BYTES : 7158724949
+      NUMBER_OF_BYTES-eng: 7158724949
+      _STATISTICS_WRITING_APP: mkvmerge v7.0.0 ('Where We Going') 32bit built on Jun  9 2014 15:08:34
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.0.0 ('Where We Going') 32bit built on Jun  9 2014 15:08:34
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-25 17:40:49
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-25 17:40:49
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.2(jpn): Audio: flac, 48000 Hz, 5.1, s16
+    Metadata:
+      title           : Japanese Audio
+      BPS             : 1368681
+      BPS-eng         : 1368681
+      DURATION        : 01:55:06.421000000
+      DURATION-eng    : 01:55:06.421000000
+      NUMBER_OF_FRAMES: 71942
+      NUMBER_OF_FRAMES-eng: 71942
+      NUMBER_OF_BYTES : 1181586746
+      NUMBER_OF_BYTES-eng: 1181586746
+      _STATISTICS_WRITING_APP: mkvmerge v7.0.0 ('Where We Going') 32bit built on Jun  9 2014 15:08:34
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.0.0 ('Where We Going') 32bit built on Jun  9 2014 15:08:34
+      _STATISTICS_WRITING_DATE_UTC: 2014-07-25 17:40:49
+      _STATISTICS_WRITING_DATE_UTC-eng: 2014-07-25 17:40:49
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.3: Attachment: [0][0][0][0] / 0x0000
+    Metadata:
+      filename        : SerpentineLight.ttf
+      mimetype        : application/x-truetype-font
+    Stream #0.4: Attachment: [0][0][0][0] / 0x0000
+    Metadata:
+      filename        : TidyHand.ttf
+      mimetype        : application/x-truetype-font
+    Stream #0.5: Attachment: [0][0][0][0] / 0x0000
+    Metadata:
+      filename        : segoeuil.ttf
+      mimetype        : application/x-truetype-font
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/.DS_Store
+/home/juanma/Videos/DSVideo/Cartoons/Justice.League.Throne.of.Atlantis.2015.720p.WEB-DL.DD5.1.H.264-PLAYNOW.mkv
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Input #0, matroska,webm, from '/home/juanma/Videos/DSVideo/Cartoons/Justice.League.Throne.of.Atlantis.2015.720p.WEB-DL.DD5.1.H.264-PLAYNOW.mkv':
+  Duration: 01:12:04.32, start: 0.000000, bitrate: N/A
+    Chapter #0.0: start 0.000000, end 176.000000
+    Metadata:
+      title           : 1
+    Chapter #0.1: start 176.000000, end 636.000000
+    Metadata:
+      title           : 2
+    Chapter #0.2: start 636.000000, end 1310.000000
+    Metadata:
+      title           : 3
+    Chapter #0.3: start 1310.000000, end 1891.000000
+    Metadata:
+      title           : 4
+    Chapter #0.4: start 1891.000000, end 2484.000000
+    Metadata:
+      title           : 5
+    Chapter #0.5: start 2484.000000, end 3114.000000
+    Metadata:
+      title           : 6
+    Chapter #0.6: start 3114.000000, end 3655.000000
+    Metadata:
+      title           : 7
+    Chapter #0.7: start 3655.000000, end 4073.000000
+    Metadata:
+      title           : 8
+    Chapter #0.8: start 4073.000000, end 4324.325000
+    Metadata:
+      title           : 9
+    Stream #0.0(eng): Video: h264 (High), yuv420p, 1280x718 [PAR 1:1 DAR 640:359], 23.98 fps, 1k tbn (default)
+    Metadata:
+      BPS             : 3882761
+      BPS-eng         : 3882761
+      DURATION        : 01:12:04.325000000
+      DURATION-eng    : 01:12:04.325000000
+      NUMBER_OF_FRAMES: 103680
+      NUMBER_OF_FRAMES-eng: 103680
+      NUMBER_OF_BYTES : 2098790371
+      NUMBER_OF_BYTES-eng: 2098790371
+      _STATISTICS_WRITING_APP: mkvmerge v7.0.0 ('Where We Going') 64bit built on Jun  9 2014 15:16:27
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.0.0 ('Where We Going') 64bit built on Jun  9 2014 15:16:27
+      _STATISTICS_WRITING_DATE_UTC: 2015-01-13 00:52:25
+      _STATISTICS_WRITING_DATE_UTC-eng: 2015-01-13 00:52:25
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0.1(eng): Audio: ac3, 48000 Hz, 5.1, fltp, 384 kb/s (default)
+    Metadata:
+      BPS             : 384000
+      BPS-eng         : 384000
+      DURATION        : 01:12:04.320000000
+      DURATION-eng    : 01:12:04.320000000
+      NUMBER_OF_FRAMES: 135135
+      NUMBER_OF_FRAMES-eng: 135135
+      NUMBER_OF_BYTES : 207567360
+      NUMBER_OF_BYTES-eng: 207567360
+      _STATISTICS_WRITING_APP: mkvmerge v7.0.0 ('Where We Going') 64bit built on Jun  9 2014 15:16:27
+      _STATISTICS_WRITING_APP-eng: mkvmerge v7.0.0 ('Where We Going') 64bit built on Jun  9 2014 15:16:27
+      _STATISTICS_WRITING_DATE_UTC: 2015-01-13 00:52:25
+      _STATISTICS_WRITING_DATE_UTC-eng: 2015-01-13 00:52:25
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+At least one output file must be specified
+/home/juanma/Videos/DSVideo/Cartoons/Chico y rita.avi
+avconv version 11-6:11-1, Copyright (c) 2000-2014 the Libav developers
+  built on Sep 26 2014 14:36:31 with gcc 4.9.1 (Ubuntu 4.9.1-15ubuntu1)
+Guessed Channel Layout for  Input Stream #0.1 : stereo
+Input #0, avi, from '/home/juanma/Videos/DSVideo/Cartoons/Chico y rita.avi':
+  Metadata:
+    encoder         : VirtualDubMod 1.5.10.2 (build 2540/release)
+  Duration: 01:32:54.57, start: 0.000000, bitrate: 1052 kb/s
+    Stream #0.0: Video: mpeg4 (Advanced Simple Profile), yuv420p, 640x352 [PAR 1:1 DAR 20:11], 23.98 fps, 23.98 tbn, 23.98 tbc
+    Stream #0.1: Audio: mp3, 48000 Hz, 2 channels, s16p, 114 kb/s
+At least one output file must be specified
+und
+default
+fra
+jpn
+fre
+unknown
+eng
+DTS
+spa
+# Audio tracks 0
+
